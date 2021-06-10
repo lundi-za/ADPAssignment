@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package za.ac.mycput.assignment3_216039746;
 
 /**
@@ -17,6 +13,5 @@ public class RunReadClasses {
         readOne.openSerFile();
         readOne.readObjects();
         readOne.closeSerFile();
-    
     }
 }
